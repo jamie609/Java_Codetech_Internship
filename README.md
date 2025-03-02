@@ -1,2 +1,10 @@
-# Java_Codetech_Internship
-This repository showcases the projects and tasks I accomplished during my internship at CodTech, spanning a range of Java Development disciplines and technologies.
+Java_Codetech_Internship
+This repository contains the tasks and projects completed during my internship at CodTech. The tasks cover various aspects of Java Development which includes:
+
+Task 1: FILE HANDING UTILITY
+
+Task 2: REST API CLIENT
+
+Task 3: MULTITHREADED CHAT APPLICATION
+
+Task 4: AI-BASED RECOMMENDATION SYSTEM
